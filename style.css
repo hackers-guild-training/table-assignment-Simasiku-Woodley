@@ -1,0 +1,22 @@
+table{
+    width: 550px; border-spacing: 0ch; position:-ms-page ;
+}
+.table{
+    align-items: center;
+}
+th{
+    text-align: left;
+}
+td{
+    text-align: center;
+}
+
+
+table, th, td{
+    border: 2px solid rgb(173, 179, 199);
+    border-collapse: collapse;
+
+}
+td, sum{
+    border-collapse: collapse;
+}
